@@ -10,7 +10,9 @@ The user should clone the repository from GitHub and download Node. This applica
 
 ## Usage 
 Use inquirer from your command line to answer questions about your project.
-View walk through video here - [Screencastify](./assets/images/gif.gif)<br>
+### Video Walkthrough
+![Video](./assets/images/gif.gif)<br>
+### Sample of the HTML page that is generated
 ![Sample of the HTML page that is generated](./assets/images/htmlsample.png)
 
 ## Tests
